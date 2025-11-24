@@ -1,13 +1,27 @@
-**Digitally Generated Music**
+# **Digitally Generated Music In MATLAB**
 
-The purpose of the code is to digitally geneates music via the usage of sine waves to create musical notes. The digitally genreatd music is the chours of **Adventure of A lifeTime** by cold play.
+This project genreats music digitally using sine waves to create piano notes. The code recreates the chorus of **Adventure of A lifeTime** by Coldplay. BY mapping the musical notes to their coressponding frequncing and using envlopes to make it soud better. The program also illustrates the digitally genreted singal in time domina, freqynecy domain, and spectorgram.
 
-The setup process begin with Downloading MATLAB by following the MATLAB offical guideline on installation: https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html 
+## **Features**
+- Digital music generation
+- Frequnecy function base on semitone offset
+- Time-domain and Frequnecy-domain(FFT) plot
+- Spectrogram visualization
+
+## **Requirements**
+  - **MATLAB R2020a or later/website version**
+
+## **Installation**
+  1. **Install MATLAB**
+
+Follow MATLAB offical installation guide: https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html 
+
+## 2. **Download ZIP**
+Click the "Code" button, then the **Download ZIP** button
+<img width="400" height="238" alt="image" src="https://github.com/user-attachments/assets/b48ecdfc-166e-449e-abae-c7e3cdcf51fd" />
 
 
-The next thing to do is to dowload the zip folder of the reposotry.
-<img width="983" height="738" alt="image" src="https://github.com/user-attachments/assets/b48ecdfc-166e-449e-abae-c7e3cdcf51fd" />
-
+## 3. 
 Once the zip folder is dowload, the next thing to is to extract the files from the zip folder
 <img width="1493" height="650" alt="image" src="https://github.com/user-attachments/assets/36fa41ae-0c9f-4795-8171-ba6eba1cd1f4" />
 
