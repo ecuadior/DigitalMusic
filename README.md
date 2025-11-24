@@ -25,7 +25,7 @@ Click the "Code" button, then the **Download ZIP** button
 Open the Zip and extract to any folder
 <img width="693" height="350" alt="image" src="https://github.com/user-attachments/assets/36fa41ae-0c9f-4795-8171-ba6eba1cd1f4" />
 
-##Usage
+## **Usage**
 1. Open MATLAB
 2. Navigate to the folder of the extracted files
 3. Open the .m file
